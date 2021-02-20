@@ -11,9 +11,9 @@
     "homepage": "https://www.trendsoft.org",
     "authors": [
         {
-            "name": "jabber",
-            "email": "2898117012@qq.com",
-            "homepage": "https://jabber.oppophp.com",
+            "name": "Novath",
+            "email": "ujumbe@zepson.co.tz",
+            "homepage": "https://zepson.co.tz",
             "role": "Developer"
         }
     ],
@@ -22,7 +22,7 @@
         "issues": "https://github.com/trendsoft/laravel-bookmark/issues"
     },
     "require": {
-        "laravel/framework": "^5.5||~6.0||~7.0"
+        "laravel/framework": "^5.5||~6.0||~7.0||~8.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~8.0",
