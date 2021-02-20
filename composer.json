@@ -1,8 +1,8 @@
 {
-    "name": "trendsoft/laravel-bookmark",
+    "name": "zepson/laravel-bookmark",
     "keywords": [
         "bookmark",
-        "trendsoft",
+        "jofrey",
         "laravel"
     ],
     "description": "Laravel bookmark",
